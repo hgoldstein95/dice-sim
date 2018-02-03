@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- .
+extra-deps:
+- memoize-0.8.1
+resolver: lts-10.2
